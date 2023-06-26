@@ -1,18 +1,22 @@
 * {
     margin: 0;
     padding: 0;
-    outline: 1px red dotted
+    /* outline: 1px red dotted */
 }
 
 a {
     text-decoration: none;
-    color: inherit
+    color: inherit;
+    padding-bottom: 0.25em;
 }
 
+h1 {
+    margin: 1em 1em 0 1em;
+}
 
 img {
     margin: 1em 0 0 1em;
-    width: 75px;
+    width: 100px;
 }
 
 .nav {
@@ -22,4 +26,14 @@ img {
     background-color: black;
     color: white;
     margin: 0 0 0 0;
+}
+
+.brand {
+    display: flex;
+    margin-bottom: .5em;
+}
+
+.banner>img {
+    width: 100px;
+    height: 100px;
 }
