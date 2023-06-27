@@ -4,7 +4,7 @@
     /* outline: 1px red dotted */
 }
 
-a {
+.nav a {
     text-decoration: none;
     color: inherit;
     padding-bottom: 0.25em;
@@ -19,9 +19,13 @@ img {
     width: 100px;
 }
 
+.container {
+    margin: 0 1em 0 1em;
+}
+
 .nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: baseline;
     background-color: black;
     color: white;
@@ -33,6 +37,15 @@ img {
     margin-bottom: .5em;
 }
 
+.days {
+    padding: 0 2em 0 0;
+}
+
+.day {
+    border: solid black 1px;
+    padding: 5px;
+
+}
 .banner>img {
     width: 100px;
     height: 100px;
