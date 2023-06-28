@@ -1,4 +1,4 @@
-# programming_basics_july2|3
+# programming_basics_july23
 
 [webpage](https://www.tylermaxwell.co/programming_basics_july23/)
 
@@ -12,7 +12,7 @@
 | Variables & Data Types     | mon   | [Code Challenge: Create Variables]                       | **Core** |
 |                            | mon   | [Algo App: Level 1]                                      | **Core** |
 |                            | tue   | [Code Challenge: Predict Arrays]                         | **Core** |
-|                            | tue   | [Algo App: Arrays and Functions]                         | Practice |
+|                            | tue   | [Algo App: Arrays]                                       | Practice |
 | Commenting                 | tue   | Practice Commenting                                      | Optional |
 | Conditionals               | tue   | [Code Challenge: Get on that Ride]                       | **Core** |
 | Loops I                    | wed   | [Code Challenge: Loop-d-Loop]                            | Practice |
@@ -51,7 +51,7 @@
 [Code Challenge: Create Variables]: https://login.codingdojo.com/m/667/15298/111619
 [Algo App: Level 1]: https://login.codingdojo.com/m/667/15298/111620
 [Code Challenge: Predict Arrays]: https://login.codingdojo.com/m/667/15300/111627
-[Algo App: Arrays and Functions]: https://login.codingdojo.com/m/667/15300/111628
+[Algo App: Arrays]: https://login.codingdojo.com/m/667/15300/111628
 
 [Code Challenge: Get on that Ride]: https://login.codingdojo.com/m/667/15302/111637
 [Code Challenge: Loop-d-Loop]: https://login.codingdojo.com/m/667/15303/111641
