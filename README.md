@@ -7,7 +7,7 @@
 | Getting Ready              | mon   | [Daily Planner Activity]                                 | Practice |
 |                            | mon   | [Centering Your Motivation]                              | Practice |
 |                            | mon   | [Assignment: Discord]                                    | **Core** |
-| Computer Basics & Tools    | mon   | [First VS Code Assignment]                               | **Core** |
+| Computer Basics & Tools    | mon   | [First VS Code Assignment]                               | Practice |
 |                            | mon   | VS Code Extensions Assignment                            | Optional |
 | Variables & Data Types     | mon   | [Code Challenge: Create Variables]                       | **Core** |
 |                            | mon   | [Algo App: Level 1]                                      | **Core** |
