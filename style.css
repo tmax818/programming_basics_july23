@@ -20,6 +20,11 @@ ul {
     list-style-type: none;
     padding-left: 20px;
 }
+
+iframe {
+    width: 200;
+    height: 200;
+}
 .container {
     display: flex;
     flex-direction: column;
@@ -50,10 +55,13 @@ ul {
 
 a {
     text-decoration: none;
-    color: white
+    color: white;
+    margin: 8px;
 }
 
 .day {
+    display: flex;
+    flex-direction: column;
     background-color: #888585;
     border: solid 1px;
     box-shadow: 10px 5px 5px gray;
@@ -62,3 +70,12 @@ a {
     padding: 12px;
 }
 
+.video {
+    padding-left: 40px;
+}
+
+.center {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+  }
