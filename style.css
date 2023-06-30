@@ -57,6 +57,7 @@ a {
     background-color: #888585;
     border: solid 1px;
     box-shadow: 10px 5px 5px gray;
+    margin-top: 10px;
     margin: 10px auto;
     padding: 12px;
 }
