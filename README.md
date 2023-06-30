@@ -41,7 +41,43 @@
 |                            | extra | Algorithm Challenge: Remove At                           | Optional |                              
 |                            | extra | Code Challenge: Arrays II                                | Optional |                              
 | Combining Conditionals     | extra | Code Challenge: Conditionals                             | Optional |                              
-| Combining Conditionals     | extra | Code Challenge: Conditionals                             | Optional |                              
+| Combining Conditionals     | extra | Code Challenge: Conditionals                             | Optional |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Daily Planner Activity]: https://login.codingdojo.com/m/667/15291/111574
 [Centering Your Motivation]: https://login.codingdojo.com/m/667/15291/111577
@@ -64,3 +100,6 @@
 [Algo App: Level 7]: https://login.codingdojo.com/m/667/15306/111657
 [Algo App: Level 12]: https://login.codingdojo.com/m/667/15307/111660
 [Algo App: Challenges]: https://login.codingdojo.com/m/667/15307/111661
+
+
+
