@@ -163,8 +163,12 @@ else {  // can have 0 or 1 of these statements
 
 ## loops 1
 
-### [`for` loops]()
-### [loop tips]()
+### [`for` loops](https://login.codingdojo.com/m/667/15303/111639)
+
+```js
+for(var start; stop; step){}
+```
+### [loop tips](https://login.codingdojo.com/m/667/15303/111640)
 ### [practice: code challenge: loop-d-loop]()
 ### [core: algo app level 4 & 5]()
 
