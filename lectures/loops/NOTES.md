@@ -1,4 +1,4 @@
-# loop
+# loops
 
 - loop - something that happens over and over. 
 
@@ -17,3 +17,7 @@ for(var i = 0; i <= 10; i++){
 }
 
 ```
+
+# keywords:
+
+`break`, `continue`
