@@ -20,4 +20,6 @@ for(var i = 0; i <= 10; i++){
 
 # keywords:
 
-`break`, `continue`
+`break` ends the loop
+
+ `continue` returns execution to the top of the loop.
